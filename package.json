@@ -1,0 +1,12 @@
+{
+  "name": "master_class_27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Pavel Oganesyan",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
