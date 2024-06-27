@@ -2,8 +2,10 @@
   "name": "master_class_27",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir _site --public-url ./"
+  },
   "author": "Pavel Oganesyan",
   "license": "MIT",
   "devDependencies": {
